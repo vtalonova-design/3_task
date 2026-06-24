@@ -89,7 +89,6 @@ GATELLM_API_KEY=ваш_api_ключ
 GATELLM_BASE_URL=https://gatellm.ru/v1
 ```
 
-Файл `.env` нельзя загружать в GitHub.
 
 ## Запуск
 
